@@ -1,0 +1,1 @@
+[{"path": "/nsls2/data/fmx/proposals/commissioning/pass-312064", "owner": "nsls2data", "group": "pass-312064", "group_writable": true, "users": [{"nsls2data": "rw"}, {"workflow-fmx": "rw"}, {"softioc-fmx": "rw"}, {"lsdc-fmx": "rw"}, {"synchweb": "r"}], "groups": [{"pass-312064": "rw"}, {"n2sn-right-dataadmin": "rw"}, {"n2sn-right-dataadmin-fmx": "rw"}]}]
