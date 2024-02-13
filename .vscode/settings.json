@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/usr/bin/python3.9",
+    "python.defaultInterpreterPath": "/usr/bin/python3.9",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/.virtualenv/*/**": true
+    },
+    // "python.linting.pylintEnabled": true,
+    // "github-actions.workflows.pinned.workflows": [
+    //     ".github/workflows/autotest.yml",
+    //     ".github/workflows/integration_tests.yml"
+    // ]
+}
